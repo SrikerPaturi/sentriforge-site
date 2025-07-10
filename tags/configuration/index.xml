@@ -1,26 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Configuration on Blowfish</title>
-    <link>https://localhost:1313/tags/configuration/</link>
-    <description>Recent content in Configuration on Blowfish</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
-    <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
-    <copyright>© 2025 Blowfish</copyright>
-    <atom:link href="https://localhost:1313/tags/configuration/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>SentriForge Site Configuration</title>
-      <link>https://localhost:1313/docs/configuration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>https://localhost:1313/docs/configuration/</guid>
-      <description>&lt;p&gt;SentriForge’s website is powered by the Blowfish Hugo theme — a fast, secure, and customizable framework designed for professionals who value performance and flexibility.&lt;/p&gt;
-&lt;p&gt;The configuration below outlines the setup used for a streamlined, secure consultancy site. You can use these values as a starting point to tailor the platform to your needs — whether you&amp;rsquo;re adding new service pages, deploying a client portal, or expanding with a technical blog.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/docs/configuration/featured.svg" />
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Configuration on Blowfish</title><link>https://localhost:1313/tags/configuration/</link><description>Recent content in Configuration on Blowfish</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><copyright>© 2025 Blowfish</copyright><atom:link href="https://localhost:1313/tags/configuration/index.xml" rel="self" type="application/rss+xml"/><item><title>SentriForge Site Configuration</title><link>https://localhost:1313/docs/configuration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://localhost:1313/docs/configuration/</guid><description>&lt;p>SentriForge’s website is powered by the Blowfish Hugo theme — a fast, secure, and customizable framework designed for professionals who value performance and flexibility.&lt;/p>
+&lt;p>The configuration below outlines the setup used for a streamlined, secure consultancy site. You can use these values as a starting point to tailor the platform to your needs — whether you&amp;rsquo;re adding new service pages, deploying a client portal, or expanding with a technical blog.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/docs/configuration/featured.svg"/></item></channel></rss>
