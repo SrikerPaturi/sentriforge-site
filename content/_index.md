@@ -1,29 +1,40 @@
 ---
-title: "Welcome to Blowfish! :tada:"
-description: "This page was built using the Blowfish theme for Hugo."
+title: "Cybersecurity Consulting for the New Digital Age"
+description: "SentriForge provides strategic cybersecurity solutions, infrastructure hardening, and freelance consulting to secure your systems against modern threats."
 ---
 
+# We Secure. We Serve. We Build.
 
-<div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
-  <span class="flex items-center ltr:pr-3 rtl:pl-3 text-primary-400">
-    {{< icon "triangle-exclamation" >}}
-  </span>
-  <span class="flex items-center justify-between grow dark:text-neutral-300">
-    <span class="prose dark:prose-invert">This is a demo of the <code id="layout">background</code> layout.</span>
-    <button
-      id="switch-layout-button"
-      class="px-4 !text-neutral !no-underline rounded-md bg-primary-600 hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
-    >
-      Switch layout &orarr;
-    </button>
-  </span>
-</div>
+Welcome to **SentriForge** — a cybersecurity consultancy forged for the evolving digital frontier.  
+We help businesses, startups, and individuals identify vulnerabilities, harden their networks, and build resilient digital ecosystems.
 
+## 🔐 What We Offer
 
-```shell
-npx blowfish-tools
-```  
+- **Freelance Cybersecurity Consulting**  
+  Penetration testing, threat assessments, and tailored advisory services.
 
-{{< youtubeLite id="SgXhGb-7QbU" label="Blowfish-tools demo" >}}
+- **Infrastructure Hardening**  
+  Secure-by-design network architecture, firewalls, and cloud security.
 
+- **Security Strategy for Growth Teams**  
+  Guidance for startups, remote teams, and tech companies scaling securely.
+
+---
+
+## ⚙️ Why SentriForge?
+
+- Built by a cybersecurity warrior with a mission-first mindset
+- Ethical. Tactical. Operationally aware.
+- No-nonsense security for teams who need to move fast — and safely.
+
+---
+
+## 📬 Ready to Fortify Your Digital Perimeter?
+
+[📄 Explore Our Services](/services/)  
+[📨 Contact Us Now](/contact/)
+
+---
+
+*SentriForge is committed to serving, protecting, and empowering the digital world — one secure system at a time.*
 
