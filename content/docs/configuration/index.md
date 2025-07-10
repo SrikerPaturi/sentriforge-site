@@ -1,20 +1,21 @@
 ---
-title: "Configuration"
+title: "SentriForge Site Configuration"
 weight: 4
 draft: false
-description: "All the configuration variables available in Blowfish."
+description: "Essential configuration settings for your secure and scalable Hugo site."
 slug: "configuration"
-tags: ["config", "docs"]
-series: ["Documentation"]
-series_order: 4
+tags: ["configuration", "cybersecurity"]
+series: ["SentriForge Docs"]
+series_order: 1
 ---
 
-Blowfish is a highly customisable theme and uses some of the latest Hugo features to simplify how it is configured.
+SentriForge’s website is powered by the Blowfish Hugo theme — a fast, secure, and customizable framework designed for professionals who value performance and flexibility.
 
-The theme ships with a default configuration that gets you up and running with a basic blog or static website.
+The configuration below outlines the setup used for a streamlined, secure consultancy site. You can use these values as a starting point to tailor the platform to your needs — whether you're adding new service pages, deploying a client portal, or expanding with a technical blog.
 
 {{< alert "fire" >}}
-We just launched a CLI tool to help you get started with Blowfish. It will help you with installation and configuration. Install the CLI tool globally using:
+To simplify setup, we recommend using the Blowfish CLI tool to scaffold your project. It helps automate theme setup and ensures compatibility with best practices.
+
 
 ```bash
 npx blowfish-tools
